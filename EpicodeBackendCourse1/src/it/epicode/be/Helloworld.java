@@ -42,7 +42,7 @@ System.out.println(arr1[i]);
 		    System.out.println(perimetroRettangolo(base , altezza));
 		    }
 public static int moltiplica ( int num1 , int num2) {
-	return num1 * 2 +  num2 ** 2 ;
+	return num1 * 2 + num2 * 2 ;
 	
 	
 }
